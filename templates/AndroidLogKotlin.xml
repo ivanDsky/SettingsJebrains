@@ -1,6 +1,9 @@
 <templateSet group="AndroidLogKotlin">
-  <template name="logdb" value="android.util.Log.d(&quot;Debug141&quot;, &quot;$METHOD_NAME$: $content$&quot;)" description="My debug Log" toReformat="false" toShortenFQNames="true">
-    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="logdb" value="android.util.Log.d(&quot;Debug141&quot;, &quot;$METHOD_NAME$: $content$&quot;)" description="Log.d(TAG, String)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
   </template>
 </templateSet>
