@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/Kyiv-Office-TAB/cristal-cleaner-artyom.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Kyiv-Office-TAB/cristal-fight.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Projects\Android" />
