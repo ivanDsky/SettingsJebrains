@@ -1,0 +1,29 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="591b3944" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J3SG" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.201.0.251:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-13T15:03:25.694292800Z" />
+        <name value="Xiaomi M2007J3SG" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
