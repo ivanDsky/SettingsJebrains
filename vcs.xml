@@ -138,6 +138,10 @@
           <option name="url" value="https://github.com/zloy-di/Template.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ireneMel/MyApp2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Android\Test" />
