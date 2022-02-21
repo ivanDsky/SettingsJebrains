@@ -142,9 +142,13 @@
           <option name="url" value="https://github.com/ireneMel/MyApp2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Kyiv-Office-TAB/moon-natasha-test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Android\Test" />
+    <option name="cloneParentDir" value="D:\Android" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
