@@ -36,6 +36,9 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
   <action id="Terminal.ClearBuffer" />
   <action id="Tree-selectNext">
     <keyboard-shortcut first-keystroke="down" />
@@ -43,7 +46,7 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UnselectPreviousOccurrence">
-    <keyboard-shortcut first-keystroke="alt k" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.FocusTextFilter" />
