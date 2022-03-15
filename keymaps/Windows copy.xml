@@ -1,11 +1,12 @@
 <keymap version="1" name="Windows copy" parent="$default">
-  <action id="ActivateLogcatToolWindow">
-    <keyboard-shortcut first-keystroke="alt l" />
-  </action>
   <action id="ActivateProblemsViewToolWindow" />
   <action id="Android.Designer.AutoArrange" />
   <action id="ChangesView.ToggleCommitUi" />
   <action id="CheckinProject" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="alt j" />
@@ -27,14 +28,14 @@
   <action id="InsertLiveTemplate" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
-    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="PopupMenu-selectNext">
     <keyboard-shortcut first-keystroke="down" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
-    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="alt h" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl j" />
