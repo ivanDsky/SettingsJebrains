@@ -5,7 +5,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.48.206:5555" />
+            <value value="192.168.83.20:5555" />
           </Key>
         </key>
         <name value="Xiaomi M2007J3SG" />
@@ -19,7 +19,7 @@
             <value value="10.202.0.102:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-15T17:32:33.911174900Z" />
+        <lastOnlineTime value="2022-03-16T08:42:35.274494800Z" />
         <name value="Xiaomi M2007J3SG" />
         <target value="Android 11.0" />
         <api value="30" />
