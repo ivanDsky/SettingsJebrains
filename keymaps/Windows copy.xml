@@ -37,6 +37,9 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
