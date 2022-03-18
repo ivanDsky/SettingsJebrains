@@ -8,7 +8,19 @@
             <value value="10.202.0.102:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-17T14:12:14.023186800Z" />
+        <lastOnlineTime value="2022-03-18T08:08:43.011116Z" />
+        <name value="Xiaomi M2007J3SG" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-591b3944-PF2Z6P._adb-tls-connect._tcp" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-18T08:08:26.368185Z" />
         <name value="Xiaomi M2007J3SG" />
         <target value="Android 11.0" />
         <api value="30" />
