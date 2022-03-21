@@ -1,6 +1,9 @@
 <keymap version="1" name="Windows copy" parent="$default">
   <action id="ActivateProblemsViewToolWindow" />
   <action id="Android.Designer.AutoArrange" />
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="g" />
+  </action>
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="a" />
   </action>
