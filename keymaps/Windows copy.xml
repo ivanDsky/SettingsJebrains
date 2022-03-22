@@ -7,6 +7,7 @@
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="a" />
   </action>
+  <action id="CIDR.Lang.ImportsHierarchy" />
   <action id="ChangesView.ToggleCommitUi" />
   <action id="CheckinProject" />
   <action id="CloseAllEditors">
@@ -52,6 +53,14 @@
   <action id="GotoFile" />
   <action id="GotoLine" />
   <action id="InsertLiveTemplate" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="shift alt j" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="alt l" />
@@ -110,6 +119,14 @@
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
+    <keyboard-shortcut first-keystroke="shift alt h" />
   </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
