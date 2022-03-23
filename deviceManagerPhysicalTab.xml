@@ -8,9 +8,9 @@
             <value value="591b3944" />
           </Key>
         </key>
-        <name value="Xiaomi M2007J3SG" />
-        <target value="Android 11.0" />
-        <api value="30" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
