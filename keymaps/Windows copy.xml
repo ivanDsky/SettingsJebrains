@@ -7,7 +7,13 @@
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="a" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
   <action id="CIDR.Lang.ImportsHierarchy" />
+  <action id="CIDR.Lang.IntroduceTypedef" />
   <action id="ChangesView.ToggleCommitUi" />
   <action id="CheckinProject" />
   <action id="CloseAllEditors">
@@ -44,6 +50,12 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
+  <action id="Git.Commit.And.Push.Executor" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoDeclaration">
@@ -106,6 +118,7 @@
     <keyboard-shortcut first-keystroke="ctrl f2" />
     <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="s" />
   </action>
+  <action id="SurroundWithLiveTemplate" />
   <action id="Terminal.ClearBuffer" />
   <action id="Tree-selectNext">
     <keyboard-shortcut first-keystroke="down" />
