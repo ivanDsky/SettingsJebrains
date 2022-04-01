@@ -34,6 +34,9 @@
   <action id="Debugger.StepOutOfBlock">
     <keyboard-shortcut first-keystroke="shift numpad8" />
   </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="alt j" />
