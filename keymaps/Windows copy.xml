@@ -38,6 +38,10 @@
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
+  <action id="EditorEscape">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="back_space" second-keystroke="q" />
+  </action>
   <action id="EditorScrollToCenter" />
   <action id="EditorUnSelectWord" />
   <action id="EditorUp">
