@@ -4,10 +4,11 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-591b3944-PF2Z6P._adb-tls-connect._tcp" />
+            <type value="SERIAL_NUMBER" />
+            <value value="591b3944" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-04-04T11:56:10.306159Z" />
         <name value="Xiaomi M2007J3SG" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -15,11 +16,10 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="591b3944" />
+            <type value="DOMAIN_NAME" />
+            <value value="adb-591b3944-PF2Z6P._adb-tls-connect._tcp" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-04T10:16:29.051398Z" />
         <name value="Xiaomi M2007J3SG" />
         <target value="Android 11.0" />
         <api value="30" />
