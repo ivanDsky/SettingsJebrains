@@ -1,7 +1,4 @@
 <keymap version="1" name="Windows copy" parent="$default">
-  <action id="$Undo">
-    <keyboard-shortcut first-keystroke="ctrl z" />
-  </action>
   <action id="ActivateProblemsViewToolWindow" />
   <action id="Android.Designer.AutoArrange" />
   <action id="Android.SyncProject">
@@ -49,7 +46,6 @@
     <keyboard-shortcut first-keystroke="alt back_space" />
   </action>
   <action id="EditorScrollToCenter" />
-  <action id="EditorUnSelectWord" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="alt k" />
