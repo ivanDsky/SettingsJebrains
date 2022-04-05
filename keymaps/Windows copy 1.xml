@@ -1,10 +1,10 @@
 <keymap version="1" name="Windows copy 1" parent="$default">
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
-    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="shift ctrl w" />
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
@@ -20,6 +20,7 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="Kotlin.RunScratch" />
   <action id="SmartSelect" />
   <action id="SmartUnSelect" />
 </keymap>
