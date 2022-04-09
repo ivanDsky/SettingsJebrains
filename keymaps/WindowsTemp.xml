@@ -127,6 +127,7 @@
   </action>
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
+  <action id="SelectNextOccurrence" />
   <action id="SmartSelect" />
   <action id="SmartUnSelect" />
   <action id="SwitcherIterateItems">
@@ -149,5 +150,18 @@
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+  <action id="emacsIDEAs.AceJump">
+    <keyboard-shortcut first-keystroke="meta j" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="emacsIDEAs.AceJumpSelect">
+    <keyboard-shortcut first-keystroke="meta i" second-keystroke="meta i" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="meta i" second-keystroke="meta f" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
 </keymap>
