@@ -116,6 +116,14 @@
   <action id="Git.Commit.And.Push.Executor" />
   <action id="GotoCustomRegion" />
   <action id="Kotlin.RunScratch" />
+  <action id="PartialPageNav.PageDown">
+    <keyboard-shortcut first-keystroke="page_down" />
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="PartialPageNav.PageUp">
+    <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
   <action id="PopupHector" />
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="ctrl e" />
