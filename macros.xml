@@ -10,5 +10,15 @@
       <shortuct text="altGraph ALT_GRAPH" />
       <typing text-keycode="82:32">{</typing>
     </macro>
+    <macro name="parenleft">
+      <action id="AceAction" />
+      <shortuct text="altGraph ALT_GRAPH" />
+      <typing text-keycode="84:32">(</typing>
+    </macro>
+    <macro name="quotes">
+      <action id="AceAction" />
+      <shortuct text="altGraph ALT_GRAPH" />
+      <typing text-keycode="83:32">&quot;</typing>
+    </macro>
   </component>
 </application>
