@@ -2,8 +2,26 @@
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="AceAllSurroundAction">
+    <keyboard-shortcut first-keystroke="alt altGraph g" />
+  </action>
+  <action id="AceBracesAction">
+    <keyboard-shortcut first-keystroke="alt altGraph r" />
+  </action>
+  <action id="AceBracketsAction">
+    <keyboard-shortcut first-keystroke="alt altGraph a" />
+  </action>
+  <action id="AceParenthesisAction">
+    <keyboard-shortcut first-keystroke="alt altGraph t" />
+  </action>
+  <action id="AceQuotesAction">
+    <keyboard-shortcut first-keystroke="alt altGraph s" />
+  </action>
   <action id="AceTargetAction">
     <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="AceTrianglesAction">
+    <keyboard-shortcut first-keystroke="alt altGraph comma" />
   </action>
   <action id="ActivateCommitToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
@@ -132,15 +150,6 @@
   <action id="IntroduceProperty" />
   <action id="IntroduceVariable" />
   <action id="JumpToLastChange" />
-  <action id="Macro.braceleft">
-    <keyboard-shortcut first-keystroke="alt altGraph r" />
-  </action>
-  <action id="Macro.parenleft">
-    <keyboard-shortcut first-keystroke="alt altGraph t" />
-  </action>
-  <action id="Macro.quotes">
-    <keyboard-shortcut first-keystroke="alt altGraph s" />
-  </action>
   <action id="MethodHierarchy" />
   <action id="MethodHierarchy.BaseOnThisMethod" />
   <action id="MoveLineDown">
