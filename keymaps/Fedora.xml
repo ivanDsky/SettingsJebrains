@@ -5,9 +5,6 @@
   <action id="AceTargetAction">
     <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
-  <action id="AceWordAction">
-    <keyboard-shortcut first-keystroke="alt d" />
-  </action>
   <action id="ActivateCommitToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="c" />
@@ -57,9 +54,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="CollapseRegion">
-    <keyboard-shortcut first-keystroke="ctrl altGraph p" />
-    <keyboard-shortcut first-keystroke="ctrl minus" />
+  <action id="CollapseBlock" />
+  <action id="CollapseSelection">
+    <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="c" />
@@ -80,10 +77,6 @@
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift alt w" />
-  </action>
-  <action id="ExpandRegion">
-    <keyboard-shortcut first-keystroke="ctrl equals" />
-    <keyboard-shortcut first-keystroke="ctrl altGraph p" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
@@ -120,6 +113,12 @@
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="GotoLine" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="ctrl alt period" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+  </action>
   <action id="GotoSymbol" />
   <action id="Hg.Commit.And.Push.Executor" />
   <action id="HideActiveWindow">
@@ -132,12 +131,7 @@
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
   <action id="IntroduceVariable" />
-  <action id="JumpToLastChange">
-    <keyboard-shortcut first-keystroke="ctrl alt h" />
-  </action>
-  <action id="JumpToNextChange">
-    <keyboard-shortcut first-keystroke="ctrl alt period" />
-  </action>
+  <action id="JumpToLastChange" />
   <action id="Macro.braceleft">
     <keyboard-shortcut first-keystroke="alt altGraph r" />
   </action>
