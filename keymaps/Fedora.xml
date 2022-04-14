@@ -158,7 +158,7 @@
   <action id="Git.Rename.Local.Branch">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="shift f6" />
-    <keyboard-shortcut first-keystroke="altGraph x" />
+    <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="GotoClass" />
   <action id="GotoCustomRegion" />
@@ -235,10 +235,10 @@
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="altGraph x" />
+    <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="RenameFile">
-    <keyboard-shortcut first-keystroke="altGraph x" />
+    <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="ResizeToolWindowDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
