@@ -206,11 +206,9 @@
     <keyboard-shortcut first-keystroke="alt altGraph u" />
   </action>
   <action id="PartialPageNav.PageDown">
-    <keyboard-shortcut first-keystroke="page_down" />
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
   <action id="PartialPageNav.PageUp">
-    <keyboard-shortcut first-keystroke="page_up" />
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
   <action id="PasteMultiple">
