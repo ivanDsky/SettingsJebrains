@@ -1,0 +1,14 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine " />
+        <option value="package:mine MyLogger St" />
+        <option value="package:mine MyLogger " />
+        <option value="package:mine MyLogger Ev" />
+        <option value="package:mine MyLogger" />
+        <option value="package:mine Debug141" />
+      </list>
+    </option>
+  </component>
+</application>
