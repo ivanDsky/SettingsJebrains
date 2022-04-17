@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="ua.zloydi.recipeapp" />
         <option value="package:mine MyLogger St" />
         <option value="package:mine MyLogger " />
         <option value="package:mine MyLogger Ev" />
