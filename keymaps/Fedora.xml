@@ -132,11 +132,14 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift alt w" />
   </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FindNext">
-    <keyboard-shortcut first-keystroke="shift alt period" />
+    <keyboard-shortcut first-keystroke="ctrl alt period" />
   </action>
   <action id="FindPrevious">
-    <keyboard-shortcut first-keystroke="shift alt h" />
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
@@ -179,10 +182,10 @@
   </action>
   <action id="GotoLine" />
   <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="ctrl period" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="GotoSymbol" />
   <action id="Hg.Commit.And.Push.Executor" />
@@ -192,6 +195,7 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift escape" />
   </action>
+  <action id="ImplementMethods" />
   <action id="InsertLiveTemplate" />
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
@@ -326,16 +330,16 @@
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="g" />
   </action>
   <action id="Vcs.RollbackChangedLines">
-    <keyboard-shortcut first-keystroke="ctrl alt comma" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="f" />
   </action>
   <action id="VcsShowNextChangeMarker">
-    <keyboard-shortcut first-keystroke="ctrl alt period" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="VcsShowPrevChangeMarker">
-    <keyboard-shortcut first-keystroke="ctrl alt h" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="kp_left" />
