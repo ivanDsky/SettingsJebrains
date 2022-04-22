@@ -20,5 +20,30 @@
       <shortuct text="altGraph ALT_GRAPH" />
       <typing text-keycode="83:32">&quot;</typing>
     </macro>
+    <macro name="p">
+      <typing text-keycode="44:1;80:0;46:1">&lt;p&gt;</typing>
+      <action id="EditorDown" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="80:0">p</typing>
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorDown" />
+    </macro>
+    <macro name="1">
+      <typing text-keycode="44:1;80:0;46:1">&lt;p&gt;</typing>
+      <action id="EditorDown" />
+      <typing text-keycode="44:1;47:0;80:0;46:1">&lt;/p&gt;</typing>
+    </macro>
+    <macro name="&lt;noname&gt;">
+      <typing text-keycode="44:1;80:0;46:1">&lt;p&gt;</typing>
+      <action id="EditorDown" />
+      <typing text-keycode="44:1;47:0;80:0;46:1">&lt;/p&gt;</typing>
+      <action id="EditorDown" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+    </macro>
   </component>
 </application>
