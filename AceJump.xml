@@ -1,5 +1,6 @@
 <application>
   <component name="AceConfig">
+    <option name="cycleMode3" value="(Skip)" />
     <option name="cycleMode4" value="(Skip)" />
     <option name="layout" value="COLEMK_DH" />
     <option name="jumpModeRGB" value="-665256" />
