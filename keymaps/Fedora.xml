@@ -51,12 +51,11 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="CIDR.Lang.ImportsHierarchy" />
   <action id="CIDR.Lang.IntroduceTypedef" />
   <action id="CIDR.Lang.IntroduceVariable" />
   <action id="CIDR.Lang.ObjC.IntroduceIvar" />
-  <action id="CallHierarchy">
-    <keyboard-shortcut first-keystroke="alt comma" />
-  </action>
+  <action id="CallHierarchy" />
   <action id="ChangesView.Shelve">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="s" />
   </action>
@@ -86,6 +85,7 @@
   <action id="EditMacros">
     <keyboard-shortcut first-keystroke="alt q" second-keystroke="e" />
   </action>
+  <action id="EditorChooseLookupItemDot" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
     <keyboard-shortcut first-keystroke="alt r" />
@@ -129,8 +129,21 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift alt w" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl alt period" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
@@ -173,10 +186,10 @@
   </action>
   <action id="GotoLine" />
   <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="ctrl alt period" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="ctrl alt h" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="GotoSymbol" />
   <action id="Hg.Commit.And.Push.Executor" />
@@ -186,6 +199,7 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift escape" />
   </action>
+  <action id="ImplementMethods" />
   <action id="InsertLiveTemplate" />
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
@@ -222,7 +236,7 @@
     <keyboard-shortcut first-keystroke="alt q" second-keystroke="p" />
   </action>
   <action id="PlaybackLastMacro">
-    <keyboard-shortcut first-keystroke="alt q" second-keystroke="l" />
+    <keyboard-shortcut first-keystroke="subtract" />
   </action>
   <action id="PopupHector" />
   <action id="RecentFiles">
@@ -268,13 +282,13 @@
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="SelectAllOccurrences">
-    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt escape" />
   </action>
   <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="alt comma" />
   </action>
   <action id="ShowFilterPopup" />
   <action id="SmartStepInto">
@@ -305,7 +319,7 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UnselectPreviousOccurrence">
-    <keyboard-shortcut first-keystroke="shift ctrl h" />
+    <keyboard-shortcut first-keystroke="shift alt comma" />
   </action>
   <action id="UpdateRunningApplication">
     <keyboard-shortcut first-keystroke="ctrl numpad5" />
@@ -319,8 +333,17 @@
     <keyboard-shortcut first-keystroke="alt back_quote" />
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="g" />
   </action>
+  <action id="Vcs.RollbackChangedLines">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="f" />
+  </action>
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="kp_left" />
