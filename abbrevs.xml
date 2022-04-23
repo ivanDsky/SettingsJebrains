@@ -1,7 +1,16 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
+      <action id="Kotlin.NewFile">
+        <abbreviation name="ks" />
+      </action>
+      <action id="OpenFile">
+        <abbreviation name="o" />
+      </action>
       <action id="ShowIntentionActions" />
+      <action id="NewDir">
+        <abbreviation name="p" />
+      </action>
     </abbreviations>
   </component>
 </application>
