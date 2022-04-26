@@ -316,6 +316,10 @@
   <action id="SwitcherRecentEditedChangedToggleCheckBox">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UnselectPreviousOccurrence">
