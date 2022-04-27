@@ -136,6 +136,10 @@
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+    <keyboard-shortcut first-keystroke="divide" />
+  </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift alt w" />
   </action>
