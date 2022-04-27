@@ -2,6 +2,9 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MyTag " />
+        <option value="package:mine MyTag ba" />
+        <option value="package:mine MyTag" />
         <option value="package:mine " />
         <option value="package:mine Image" />
         <option value="package:mine" />
