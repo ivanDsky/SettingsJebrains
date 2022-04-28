@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine Debu" />
         <option value="package:mine Debug" />
         <option value="package:mine  My" />
         <option value="package:mine MyTag " />
