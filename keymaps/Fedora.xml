@@ -104,6 +104,7 @@
   </action>
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="ctrl j" />
+    <keyboard-shortcut first-keystroke="alt z" />
   </action>
   <action id="EditorKillToWordEnd">
     <keyboard-shortcut first-keystroke="alt minus" />
