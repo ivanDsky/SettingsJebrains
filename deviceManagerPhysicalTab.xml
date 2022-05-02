@@ -8,16 +8,6 @@
             <value value="591b3944" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="10.202.0.106:5555" />
-          </Key>
-        </key>
         <name value="Xiaomi M2007J3SG" />
         <target value="Android 12.0" />
         <api value="androidversion:31:null:null:true" />
@@ -27,17 +17,6 @@
           <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-591b3944-V2cOVf._adb-tls-connect._tcp" />
-          </Key>
-        </key>
-        <name value="Xiaomi M2007J3SG" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="10.202.0.107:5555" />
           </Key>
         </key>
         <name value="Xiaomi M2007J3SG" />

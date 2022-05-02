@@ -43,6 +43,9 @@
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="w" />
     <keyboard-shortcut first-keystroke="alt f" second-keystroke="g" />
   </action>
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="g" />
+  </action>
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="a" />
   </action>
@@ -101,6 +104,7 @@
   </action>
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="ctrl j" />
+    <keyboard-shortcut first-keystroke="alt z" />
   </action>
   <action id="EditorKillToWordEnd">
     <keyboard-shortcut first-keystroke="alt minus" />
@@ -133,9 +137,14 @@
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+    <keyboard-shortcut first-keystroke="divide" />
+  </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift alt w" />
   </action>
+  <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
@@ -153,6 +162,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt period" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="b" />
@@ -199,7 +212,9 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift escape" />
   </action>
-  <action id="ImplementMethods" />
+  <action id="ImplementMethods">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="InsertLiveTemplate" />
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
@@ -218,6 +233,9 @@
   </action>
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="alt altGraph u" />
+  </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="PartialPageNav.PageDown">
     <keyboard-shortcut first-keystroke="ctrl down" />
