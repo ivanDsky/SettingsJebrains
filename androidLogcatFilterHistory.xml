@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
-        <option value="package:mine  Debug141" />
         <option value="package:mine  " />
+        <option value="package:mine  Debug141" />
         <option value="package:mine  Debug141App" />
         <option value="package:mine Trivial" />
         <option value="package:mine Debug141" />
