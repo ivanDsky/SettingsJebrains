@@ -4,6 +4,8 @@
       <list>
         <option value="package:mine  " />
         <option value="package:mine  Debug141" />
+        <option value="package:mine  Debug141App" />
+        <option value="package:mine Trivial" />
         <option value="package:mine Debug141" />
         <option value="package:mine " />
         <option value="package:mine Face" />
@@ -20,8 +22,6 @@
         <option value="Debug141" />
         <option value="ua.zloydi.recipeapp" />
         <option value="package:mine MyLogger St" />
-        <option value="package:mine MyLogger " />
-        <option value="package:mine MyLogger Ev" />
       </list>
     </option>
   </component>
