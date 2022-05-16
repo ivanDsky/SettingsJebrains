@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine MyLogger" />
         <option value="package:mine Debug141" />
@@ -19,7 +20,6 @@
         <option value="package:mine MyTag ba" />
         <option value="package:mine MyTag" />
         <option value="package:mine Image" />
-        <option value="package:mine" />
         <option value="package:mine Log" />
         <option value="Debug141" />
         <option value="ua.zloydi.recipeapp" />
