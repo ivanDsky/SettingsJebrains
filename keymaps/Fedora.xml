@@ -381,6 +381,10 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="emacsIDEAs.AceJumpCopy.Block">
+    <keyboard-shortcut first-keystroke="meta w" second-keystroke="meta b" />
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="n" />
+  </action>
   <action id="tasks.close" />
   <action id="tasks.switch" />
 </keymap>
