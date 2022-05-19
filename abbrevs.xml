@@ -4,6 +4,9 @@
       <action id="Kotlin.NewFile">
         <abbreviation name="ks" />
       </action>
+      <action id="CloseAllNotifications">
+        <abbreviation name="ca" />
+      </action>
       <action id="OpenFile">
         <abbreviation name="o" />
       </action>
