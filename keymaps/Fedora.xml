@@ -43,6 +43,10 @@
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="w" />
     <keyboard-shortcut first-keystroke="alt f" second-keystroke="g" />
   </action>
+  <action id="Android.Designer.ForceRefreshPreview">
+    <keyboard-shortcut first-keystroke="r" />
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="t" />
+  </action>
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="g" />
   </action>
