@@ -1,0 +1,7 @@
+<templateSet group="AndroidCompose">
+  <template name="mdd" value="modifier: Modifier = Modifier," description="Default modifier" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
