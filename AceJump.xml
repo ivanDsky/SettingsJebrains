@@ -1,8 +1,10 @@
 <application>
   <component name="AceConfig">
-    <option name="cycleMode3" value="(Skip)" />
+    <option name="cycleMode2" value="Jump to End" />
+    <option name="cycleMode3" value="Definition" />
     <option name="cycleMode4" value="(Skip)" />
     <option name="layout" value="COLEMK_DH" />
+    <option name="minQueryLength" value="2" />
     <option name="jumpModeRGB" value="-665256" />
     <option name="jumpEndModeRGB" value="-1313383" />
     <option name="definitionModeRGB" value="-6787073" />
