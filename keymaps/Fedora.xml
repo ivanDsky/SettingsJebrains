@@ -1,7 +1,5 @@
 <keymap version="1" name="Fedora" parent="$default">
-  <action id="AceAction">
-    <keyboard-shortcut first-keystroke="alt t" />
-  </action>
+  <action id="AceAction" />
   <action id="AceAllSurroundAction">
     <keyboard-shortcut first-keystroke="alt altGraph g" />
   </action>
@@ -23,26 +21,24 @@
   <action id="AceTrianglesAction">
     <keyboard-shortcut first-keystroke="alt altGraph comma" />
   </action>
+  <action id="AceWordEndAction">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="AceWordStartAction">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="ActivateCommitToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="c" />
   </action>
-  <action id="ActivateDebugToolWindow">
-    <keyboard-shortcut first-keystroke="alt 5" />
-    <keyboard-shortcut first-keystroke="alt f" second-keystroke="d" />
-  </action>
   <action id="ActivateLogcatToolWindow">
-    <keyboard-shortcut first-keystroke="alt f" second-keystroke="c" />
-  </action>
-  <action id="ActivateRunToolWindow">
-    <keyboard-shortcut first-keystroke="alt 4" />
-    <keyboard-shortcut first-keystroke="alt f" second-keystroke="r" />
+    <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 9" />
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="w" />
-    <keyboard-shortcut first-keystroke="alt f" second-keystroke="g" />
   </action>
+  <action id="AddToFavoritesPopup" />
   <action id="Android.Designer.ForceRefreshPreview">
     <keyboard-shortcut first-keystroke="r" />
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="t" />
