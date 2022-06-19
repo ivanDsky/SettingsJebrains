@@ -5,12 +5,22 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="621HEBRH2BC5S" />
+          </Key>
+        </key>
+        <name value="Meizu M5 Note" />
+        <target value="Android 7.0" />
+        <api value="androidversion:24:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="591b3944" />
           </Key>
         </key>
-        <name value="Xiaomi M2007J3SG" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
