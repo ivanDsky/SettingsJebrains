@@ -1,0 +1,11 @@
+<templateSet group="Kotlin">
+  <template name="plm" value="$NAME$: ($ARG$) -&gt; $RET$ = $DEF$," description="Variable lambda" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARG" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RET" expression="" defaultValue="&quot;Unit&quot;" alwaysStopAt="true" />
+    <variable name="DEF" expression="" defaultValue="&quot;{}&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
