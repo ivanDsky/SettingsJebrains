@@ -42,9 +42,13 @@
           <option name="url" value="https://github.com/ireneMel/ClientServer" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ireneMel/Path_Finder" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/mnt/Files/IDEA" />
+    <option name="cloneParentDir" value="/mnt/Files/Android" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
