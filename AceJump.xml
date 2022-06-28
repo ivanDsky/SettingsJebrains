@@ -1,7 +1,7 @@
 <application>
   <component name="AceConfig">
     <option name="cycleMode2" value="Jump to End" />
-    <option name="cycleMode3" value="Definition" />
+    <option name="cycleMode3" value="(Skip)" />
     <option name="cycleMode4" value="(Skip)" />
     <option name="layout" value="COLEMK_DH" />
     <option name="minQueryLength" value="2" />
