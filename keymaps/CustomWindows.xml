@@ -284,10 +284,6 @@
   <action id="ResizeToolWindowUp">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
-  <action id="Resume">
-    <keyboard-shortcut first-keystroke="begin" />
-    <keyboard-shortcut first-keystroke="numpad5" />
-  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="r" />
   </action>
@@ -315,15 +311,6 @@
   </action>
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="add" />
-  </action>
-  <action id="StepInto">
-    <keyboard-shortcut first-keystroke="numpad2" />
-  </action>
-  <action id="StepOut">
-    <keyboard-shortcut first-keystroke="numpad8" />
-  </action>
-  <action id="StepOver">
-    <keyboard-shortcut first-keystroke="numpad6" />
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="ctrl f2" />
