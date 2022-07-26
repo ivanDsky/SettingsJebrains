@@ -5,9 +5,11 @@
         <option value="package:mine Debug141" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine render: " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine render: " />
+        <option value="package:mine render" />
         <option value="package:mine " />
         <option value="package:mine Log" />
         <option value="package:mine log: Inter" />
@@ -26,8 +28,6 @@
         <option value="package:mine  My" />
         <option value="package:mine Debug" />
         <option value="package:mine Debu" />
-        <option value="package:mine MyTag " />
-        <option value="package:mine MyTag ba" />
       </list>
     </option>
   </component>
