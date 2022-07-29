@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine size size:" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine size size:" />
-        <option value="package:mine Debug141" />
         <option value="package:mine " />
+        <option value="package:mine Debug141" />
+        <option value="package:mine lol" />
+        <option value="package:mine size size:" />
         <option value="package:mine render: " />
         <option value="package:mine render" />
         <option value="package:mine Log" />
@@ -22,7 +23,6 @@
         <option value="package:mine Trivial" />
         <option value="package:mine Face" />
         <option value="package:mine  Debu" />
-        <option value="package:mine  My" />
       </list>
     </option>
   </component>
