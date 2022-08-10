@@ -35,6 +35,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.nvinayshetty.DTOnator">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
