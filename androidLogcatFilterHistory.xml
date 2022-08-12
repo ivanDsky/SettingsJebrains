@@ -8,8 +8,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:mine Custom" />
         <option value="package:mine CustomLog" />
+        <option value="package:mine Custom" />
         <option value="package:mine Firebase" />
         <option value="package:mine Fire" />
         <option value="package:mine Debug141" />
