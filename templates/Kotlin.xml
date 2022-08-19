@@ -8,4 +8,12 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="msf" value="private val _$NAME$ = MutableStateFlow$END$($START_VALUE$)&#10;val $NAME$ = _$NAME$.asStateFlow()" description="Create private MutableStateFlow and public StateFlow" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="START_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
