@@ -206,10 +206,10 @@
   </action>
   <action id="GotoLine" />
   <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="ctrl i" />
+    <keyboard-shortcut first-keystroke="alt i" />
   </action>
   <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="GotoSymbol" />
   <action id="Hg.Commit.And.Push.Executor" />
