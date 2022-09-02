@@ -5,8 +5,10 @@
         <option value="package:mine system.out" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine System.o" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine System.o" />
         <option value="package:mine " />
         <option value="package:mine System.out" />
         <option value="package:mine Custom" />
@@ -26,7 +28,6 @@
         <option value="package:mine log: Inter" />
         <option value="package:mine INTER" />
         <option value="gggg" />
-        <option value="package:mine gggg" />
       </list>
     </option>
   </component>
