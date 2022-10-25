@@ -1,0 +1,33 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="favorites">
+      <list>
+        <option value="package:mine system.out" />
+      </list>
+    </option>
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine " />
+        <option value="package:mine System.out" />
+        <option value="package:mine System.o" />
+        <option value="package:mine Custom" />
+        <option value="package:mine CustomLog" />
+        <option value="package:mine Firebase" />
+        <option value="package:mine Fire" />
+        <option value="package:mine Debug141" />
+        <option value="package:mine Debug141 " />
+        <option value="package:mine Debug141 AppOpen" />
+        <option value="package:mine Fireba" />
+        <option value="package:mine App" />
+        <option value="package:mine lol" />
+        <option value="package:mine size size:" />
+        <option value="package:mine render: " />
+        <option value="package:mine render" />
+        <option value="package:mine Log" />
+        <option value="package:mine log: Inter" />
+        <option value="package:mine INTER" />
+        <option value="gggg" />
+      </list>
+    </option>
+  </component>
+</application>

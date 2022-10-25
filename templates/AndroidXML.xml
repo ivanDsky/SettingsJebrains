@@ -1,0 +1,17 @@
+<templateSet group="AndroidXML">
+  <template name="full" value="app:layout_constraintStart_toStartOf=&quot;parent&quot;&#10;app:layout_constraintEnd_toEndOf=&quot;parent&quot;&#10;app:layout_constraintTop_toTopOf=&quot;parent&quot;&#10;app:layout_constraintBottom_toBottomOf=&quot;parent&quot;" description="Adds fullscreen constraints" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+      <option name="XSL_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="req" value="android:id=&quot;@+id/$ID$&quot;&#10;android:layout_width=&quot;$W$&quot;&#10;android:layout_height=&quot;$H$&quot;" description="Adds required elements" toReformat="true" toShortenFQNames="true">
+    <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="W" expression="" defaultValue="0dp" alwaysStopAt="true" />
+    <variable name="H" expression="" defaultValue="0dp" alwaysStopAt="true" />
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+      <option name="XSL_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>
