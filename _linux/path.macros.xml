@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="KOTLIN_BUNDLED" value="/home/zloydi/.android-studio/Bumblbee/plugins/Kotlin/kotlinc" />
+  </component>
+</application>

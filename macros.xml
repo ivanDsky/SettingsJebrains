@@ -1,0 +1,63 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="xxx">
+      <action id="AceAction" />
+      <shortuct text="altGraph ALT_GRAPH" />
+      <typing text-keycode="82:32;82:0;82:0;65:0;82:0;83:0;84:0">{rrarst</typing>
+    </macro>
+    <macro name="braceleft">
+      <action id="AceAction" />
+      <shortuct text="altGraph ALT_GRAPH" />
+      <typing text-keycode="82:32">{</typing>
+    </macro>
+    <macro name="parenleft">
+      <action id="AceAction" />
+      <shortuct text="altGraph ALT_GRAPH" />
+      <typing text-keycode="84:32">(</typing>
+    </macro>
+    <macro name="quotes">
+      <action id="AceAction" />
+      <shortuct text="altGraph ALT_GRAPH" />
+      <typing text-keycode="83:32">&quot;</typing>
+    </macro>
+    <macro name="p">
+      <typing text-keycode="44:1;80:0;46:1">&lt;p&gt;</typing>
+      <action id="EditorDown" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="80:0">p</typing>
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorDown" />
+    </macro>
+    <macro name="1">
+      <typing text-keycode="44:1;80:0;46:1">&lt;p&gt;</typing>
+      <action id="EditorDown" />
+      <typing text-keycode="44:1;47:0;80:0;46:1">&lt;/p&gt;</typing>
+    </macro>
+    <macro name="&lt;noname&gt;">
+      <typing text-keycode="46:1">&gt;</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="44:1;73:0;84:0;69:0;77:0;32:0;78:0;65:0;77:0;69:0;61:0">&lt;item&amp;#x20;name=</typing>
+      <shortuct text="altGraph ALT_GRAPH" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <action id="AceAction" />
+      <typing text-keycode="61:0">=</typing>
+      <action id="EditorRight" />
+      <action id="EditorEscape" />
+      <shortuct text="altGraph ALT_GRAPH" />
+      <action id="EditorDelete" />
+      <action id="EditorLineEnd" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="44:1">&lt;</typing>
+      <action id="EditorChooseLookupItem" />
+      <action id="$Undo" />
+      <typing text-keycode="47:0;69:0">/e</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="73:0;84:0;69:0;78:0">iten</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="77:0;46:1">m&gt;</typing>
+    </macro>
+  </component>
+</application>
