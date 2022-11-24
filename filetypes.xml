@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="x" type="AUTO_DETECTED" />
+      <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="glsl" approved="true" type="PLAIN_TEXT" />
