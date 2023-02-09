@@ -5,10 +5,12 @@
         <option value="package:mine system.out" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine  " />
+    <option name="mostRecentlyUsed" value="tag:NavController " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:NavController " />
         <option value="package:mine  " />
+        <option value="package:mine  tag:NavController" />
         <option value="package:mine  tag:PhotoPicker " />
         <option value="package:mine " />
         <option value="package:mine System.out" />
@@ -26,8 +28,6 @@
         <option value="package:mine size size:" />
         <option value="package:mine render: " />
         <option value="package:mine render" />
-        <option value="package:mine Log" />
-        <option value="package:mine log: Inter" />
       </list>
     </option>
   </component>
