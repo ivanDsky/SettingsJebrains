@@ -5,10 +5,14 @@
         <option value="package:mine system.out" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine MyFirebaseMsgService" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
+        <option value="package:mine MyFirebaseMsgService" />
+        <option value="package:mine CChatManager" />
+        <option value="package:mine tag:ChatsumerLogs" />
         <option value="package:mine tag:Error" />
+        <option value="package:mine " />
         <option value="tag:NavController " />
         <option value="package:mine  " />
         <option value="package:mine  tag:NavController" />
@@ -24,9 +28,6 @@
         <option value="package:mine Debug141 AppOpen" />
         <option value="package:mine Fireba" />
         <option value="package:mine App" />
-        <option value="package:mine lol" />
-        <option value="package:mine size size:" />
-        <option value="package:mine render: " />
       </list>
     </option>
   </component>
