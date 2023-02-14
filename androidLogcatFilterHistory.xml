@@ -5,8 +5,10 @@
         <option value="package:mine system.out" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag:Error" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Error" />
         <option value="package:mine " />
         <option value="tag:NavController " />
         <option value="package:mine  " />
@@ -26,7 +28,6 @@
         <option value="package:mine lol" />
         <option value="package:mine size size:" />
         <option value="package:mine render: " />
-        <option value="package:mine render" />
       </list>
     </option>
   </component>
