@@ -5,11 +5,10 @@
         <option value="package:mine system.out" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:Error" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:Error" />
         <option value="package:mine " />
+        <option value="package:mine tag:Error" />
         <option value="tag:NavController " />
         <option value="package:mine  " />
         <option value="package:mine  tag:NavController" />
