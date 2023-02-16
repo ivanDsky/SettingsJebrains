@@ -5,11 +5,10 @@
         <option value="package:mine system.out" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:CCMain" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:CCMain" />
         <option value="package:mine " />
+        <option value="package:mine tag:CCMain" />
         <option value="package:mine MyFirebaseMsgService" />
         <option value="package:mine CChatManager" />
         <option value="package:mine tag:ChatsumerLogs" />
