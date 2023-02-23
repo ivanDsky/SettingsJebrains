@@ -5,8 +5,10 @@
         <option value="package:mine system.out" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag:MyFirebaseMsgService " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:MyFirebaseMsgService " />
         <option value="package:mine " />
         <option value="package:mine tag:CCMain" />
         <option value="package:mine MyFirebaseMsgService" />
@@ -26,7 +28,6 @@
         <option value="package:mine Debug141" />
         <option value="package:mine Debug141 " />
         <option value="package:mine Debug141 AppOpen" />
-        <option value="package:mine Fireba" />
       </list>
     </option>
   </component>
