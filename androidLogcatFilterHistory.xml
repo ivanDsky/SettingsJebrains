@@ -9,9 +9,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:init" />
+        <option value="package:mine " />
         <option value="package:mine tag:ViewModel" />
         <option value="package:mine tag:Debug141 " />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine tag:Debug141" />
         <option value="package:mine tag:MyFirebaseMsgService " />
