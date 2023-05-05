@@ -1,0 +1,34 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="favorites">
+      <list>
+        <option value="package:mine system.out" />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine" />
+        <option value="package:mine tag:Debug141" />
+        <option value="package:mine tag:Debud" />
+        <option value="package:mine " />
+        <option value="package:mine tag:init" />
+        <option value="package:mine tag:ViewModel" />
+        <option value="package:mine tag:Debug141 " />
+        <option value="package:mine tag:MyFirebaseMsgService " />
+        <option value="package:mine tag:CCMain" />
+        <option value="package:mine MyFirebaseMsgService" />
+        <option value="package:mine CChatManager" />
+        <option value="package:mine tag:ChatsumerLogs" />
+        <option value="package:mine tag:Error" />
+        <option value="tag:NavController " />
+        <option value="package:mine  " />
+        <option value="package:mine  tag:NavController" />
+        <option value="package:mine  tag:PhotoPicker " />
+        <option value="package:mine System.out" />
+        <option value="package:mine System.o" />
+        <option value="package:mine Custom" />
+      </list>
+    </option>
+  </component>
+</application>
