@@ -21,7 +21,7 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="ChangesView.ToggleCommitUi" />
   <action id="CheckinProject" />
@@ -34,6 +34,8 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="alt y" />
   </action>
@@ -46,7 +48,7 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
-    <keyboard-shortcut first-keystroke="alt i" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
   <action id="Git.Commit.Stage" />
   <action id="GotoDeclaration">
