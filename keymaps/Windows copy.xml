@@ -29,11 +29,19 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="Console.TableResult.NavigateForeignAction">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="alt y" />
   </action>
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="FileChooser.LightEditGotoOpenedFile">
+    <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
@@ -42,7 +50,6 @@
   </action>
   <action id="Git.Commit.Stage" />
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="ctrl s" />
@@ -93,6 +100,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
     <keyboard-shortcut first-keystroke="ctrl alt comma" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
@@ -114,4 +124,5 @@
   <action id="Vcs.Log.ShowAllAffected" />
   <action id="Vcs.Push" />
   <action id="VcsHistory.ShowAllAffected" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
 </keymap>
