@@ -102,9 +102,9 @@
       <unmute-on-stop>true</unmute-on-stop>
     </general>
     <debuggers>
-      <debugger id="ObjectiveC">
+      <debugger id="javascript">
         <configuration>
-          <nt-symbol-settings />
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
