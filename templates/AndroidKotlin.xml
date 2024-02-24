@@ -1,0 +1,9 @@
+<templateSet group="AndroidKotlin">
+  <template name="inflate" value="$VB$.inflate(LayoutInflater.from(parent.context),parent,false)" description="Inflate view binding for recycler view" toReformat="true" toShortenFQNames="true">
+    <variable name="VB" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
