@@ -47,6 +47,15 @@
             </list>
           </option>
         </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="Alpha" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
       </list>
     </option>
     <option name="profiles">
@@ -207,5 +216,6 @@
         </Profile>
       </list>
     </option>
+    <option name="version" value="2" />
   </component>
 </application>
